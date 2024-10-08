@@ -6,7 +6,7 @@ spring:
           uri: https://github.com/fai7h01/config-repo.git
           default-label: master
           username: fai7h01
-          password: ${config-service-token}
+          password: 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
 
 
 server:
